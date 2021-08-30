@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F7FFF7;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0E3E52;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: #274156;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #0E0E52;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    color: #F7F9F9;
+    text-decoration: none;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer {
+    background: #274156;
+    width: 100%;
+    padding: 1% 6%;
+    margin: 0;
+}
+
+footer h2 {
+    display: inline;
+    color: #F7F9F9;
+    font-size: 16px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.1;
+    text-align: right;
+    font-size: 12px;
+    color: #F7F9F9;
+}
+
+footer a {
+    color: #F7F9F9;
+}
+
+#myImage { 
+    margin-left: 8%;
+    width: 40%;
+    padding: 2%;
+}
+
+/* div.gallery {
+    margin: 5px;    
+    border: 1px solid #ccc;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  } 
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  } */
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-flex;
+  }
+
+  #dropdown_image {
+      width:70%;
+      height: 100%;
+      border-radius: 80%;
+      padding: 40px;
+      opacity: 85%;
+      margin-left: 15%;
+  }
+
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .ReviewClass {
+      display: inline-flex;
+  }
+
+  #Reviews {
+      display: inline-flex;
+      text-align: center;
+      width: 40%;   
+      margin-left: 35%;
+  }
+
+  #loginbutton {
+      border: none;
+      border-radius: 15%;
+      padding: 5px 42px;
+      opacity: 90%;
+      font-size: 23px;  
+      cursor: pointer;
+  }
+
+  #loginbutton:hover {
+      background-color: #dcebf7 ;
+      color: #274156;
+  }
+
+  .WhatweDo {
+      display: inline-flex;
+      background-color: rgb(230, 231, 231);
+  }
+
+  .text {
+      text-align: left;
+      width: 35%;
+      padding: 10% 5%;
+      margin-left: 8%;
+  }
+
+  #Learn {
+      cursor: pointer;
+  }
+
+  #Learn:hover {
+      color: #dcebf7;
+  }
+
+  #Imagecompany {
+    margin-left: 55%;
+    width: 40%;
+    padding: 2%;
+  }

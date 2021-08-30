@@ -1,0 +1,12 @@
+:root {
+  --primary-blue: #0e0520;
+  --accent-blue: #7f95d1;
+  --accent-green: #00a386;
+  --white: #f7f9f9;
+  --cream: #f7fff7;
+}
+
+body {
+  background-color: var(--white);
+  margin: 0;
+}

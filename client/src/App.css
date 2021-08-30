@@ -1,0 +1,19 @@
+:root {
+  --primary-blue: #274156;
+  --accent-blue: #7f95d1;
+  --accent-green: #00a386;
+  --accent-green2: #00e0b7;
+  --white: #f7f9f9;
+  --cream: #f7fff7;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.support-form {
+  max-width: 90%;
+  margin: 2% auto 0 auto;
+}

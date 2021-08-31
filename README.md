@@ -1,5 +1,5 @@
 # SKB [GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
- SKB ## Table of Contents:
+ SKB Table of Contents:
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
